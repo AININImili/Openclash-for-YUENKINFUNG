@@ -720,6 +720,7 @@ DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
