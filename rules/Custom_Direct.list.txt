@@ -70,3 +70,6 @@ DOMAIN-SUFFIX,jlcpcb.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,oshwhub.com
+DOMAIN-SUFFIX,rog-content-platform.asus.com
+DOMAIN-SUFFIX,rog-live-service.asus.com
+DOMAIN-SUFFIX,www.asus.com
