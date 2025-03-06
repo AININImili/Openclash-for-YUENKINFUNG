@@ -61,3 +61,4 @@ DOMAIN-KEYWORD,odysseyplus
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,misakaf.org
 PROCESS-NAME,com.mb.android
+DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
