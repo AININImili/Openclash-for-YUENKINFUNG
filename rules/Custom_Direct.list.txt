@@ -73,3 +73,5 @@ DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,rog-content-platform.asus.com
 DOMAIN-SUFFIX,rog-live-service.asus.com
 DOMAIN-SUFFIX,www.asus.com
+DOMAIN-SUFFIX,qingflow.com
+DOMAIN-SUFFIX,yadea.com.cn
