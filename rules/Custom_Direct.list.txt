@@ -75,3 +75,8 @@ DOMAIN-SUFFIX,rog-live-service.asus.com
 DOMAIN-SUFFIX,www.asus.com
 DOMAIN-SUFFIX,qingflow.com
 DOMAIN-SUFFIX,yadea.com.cn
+DOMAIN-SUFFIX,fnnas
+DOMAIN-SUFFIX,istore
+DOMAIN-SUFFIX,juai130.swjtu.edu.cn
+DOMAIN-SUFFIX,www.hdsky.net
+DOMAIN-SUFFIX,www.xsmt.com
