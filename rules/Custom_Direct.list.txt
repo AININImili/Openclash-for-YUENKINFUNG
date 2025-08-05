@@ -81,3 +81,5 @@ DOMAIN-SUFFIX,juai130.swjtu.edu.cn
 DOMAIN-SUFFIX,www.hdsky.net
 DOMAIN-SUFFIX,www.xsmt.com
 DOMAIN-SUFFIX,web.cciot.cc
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,,wechat.com
